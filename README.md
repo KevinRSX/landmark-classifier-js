@@ -17,4 +17,4 @@ Clone and serve this directory with any web server, e.g.,
 python3 -m http.server [port]
 ```
 
-Open in browser. Upload a photo of any one of the buildings above and you should be able to see the predictions.
+Open in browser `localhost:[port]`. Upload a photo of any one of the buildings above and you should be able to see the predictions.
