@@ -1,7 +1,7 @@
 # landmark-classifier-js
 
 A Tensorflow.js demo based on [Tensorflow.js MobileNet demo](https://github.com/tensorflow/tfjs-examples/tree/master/mobilenet)
-![building classification sample](./building-classification-sample.png)
+![building classification sample](./building_classification_sample.png)
 
 A simple ConvNet model trained in Tensorflow and [converted](https://www.tensorflow.org/js/guide/conversion) to tfjs. It is capable of classifying four buildings:
  - Oriental Pearl TV Tower, Shanghai, China
