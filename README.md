@@ -5,7 +5,7 @@ A Tensorflow.js demo based on [Tensorflow.js MobileNet demo](https://github.com/
 
 A simple ConvNet model trained in Tensorflow and [converted](https://www.tensorflow.org/js/guide/conversion) to tfjs, which classifies four buildings:
  - Oriental Pearl TV Tower, Shanghai, China
- - Band of China Building, Hong Kong S.A.R.
+ - Bank of China Building, Hong Kong S.A.R.
  - Empire State Building, New York, NY
  - Reichstag Building, Berlin, Germany
 
