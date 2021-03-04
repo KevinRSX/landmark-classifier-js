@@ -3,7 +3,7 @@
 A Tensorflow.js demo based on [Tensorflow.js MobileNet demo](https://github.com/tensorflow/tfjs-examples/tree/master/mobilenet)
 ![building classification sample](./building_classification_sample.png)
 
-A simple ConvNet model written ane trained in Tensorflow Python API and [converted](https://www.tensorflow.org/js/guide/conversion) to tfjs, which classifies four buildings:
+A simple ConvNet model written and trained in Tensorflow Python API before being [converted](https://www.tensorflow.org/js/guide/conversion) to tfjs, which classifies four buildings:
  - Oriental Pearl TV Tower, Shanghai, China
  - Bank of China Building, Hong Kong S.A.R.
  - Empire State Building, New York, NY
